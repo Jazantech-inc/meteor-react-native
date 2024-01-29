@@ -1,0 +1,6 @@
+package.json
+example/
+.nyc_output
+coverage
+node_modules
+.github

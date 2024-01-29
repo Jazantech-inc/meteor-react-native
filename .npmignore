@@ -1,0 +1,5 @@
+examples
+.github
+companion-packages
+.nyc_output
+coverage
